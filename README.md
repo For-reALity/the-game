@@ -2,6 +2,7 @@
 Project repository for IT 115 Winter 2021
 
 Students in IT 115 are going to add content to this project. 
+Students in IT 115 are going to add content to this project. 
 
 The Game itself does really have to do very much. It's mostly just an excuse to make several directories of practice code we can practice managing projects on GitHub.
 That being said, if you can add some fun features to the Game, please do!
